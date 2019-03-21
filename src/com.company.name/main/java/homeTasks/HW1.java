@@ -1,4 +1,4 @@
-package HomeTasks;
+package homeTasks;
 
 import java.util.function.IntSupplier;
 import java.util.stream.IntStream;
