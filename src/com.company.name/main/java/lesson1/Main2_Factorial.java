@@ -1,6 +1,6 @@
 package lesson1;
 
-public class Main2 {
+public class Main2_Factorial {
 
     public static final String YES = "Yes";
     public static final String NO = "No";
