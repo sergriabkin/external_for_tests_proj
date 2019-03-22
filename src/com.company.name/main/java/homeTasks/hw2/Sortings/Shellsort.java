@@ -1,6 +1,6 @@
 package homeTasks.hw2.Sortings;
 
-public class ExampleShellsort {
+public class Shellsort {
 
     public static void shellSort(int[] numbers) {
         int j;

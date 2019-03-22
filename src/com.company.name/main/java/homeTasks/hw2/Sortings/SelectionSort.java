@@ -1,6 +1,6 @@
 package homeTasks.hw2.Sortings;
 
-public class ExampleSelectionSort {
+public class SelectionSort {
 
     public static void sort(int [] numbers){
         int n = numbers.length;
