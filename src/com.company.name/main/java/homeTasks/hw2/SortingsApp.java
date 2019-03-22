@@ -1,5 +1,7 @@
-package homeTasks.hw2.Sortings;
+package homeTasks.hw2;
 
+
+import homeTasks.hw2.Sortings.*;
 
 import java.util.Arrays;
 
