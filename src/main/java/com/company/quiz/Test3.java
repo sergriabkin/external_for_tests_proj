@@ -1,4 +1,4 @@
-package com.company.tests;
+package com.company.quiz;
 
 public class Test3 {
     public static void main(String[] args) {

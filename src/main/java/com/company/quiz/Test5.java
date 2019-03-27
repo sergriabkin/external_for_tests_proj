@@ -1,4 +1,4 @@
-package com.company.tests;
+package com.company.quiz;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

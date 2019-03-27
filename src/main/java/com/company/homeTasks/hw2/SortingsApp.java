@@ -1,18 +1,9 @@
 package com.company.homeTasks.hw2;
 
-
-import homeTasks.hw2.Sortings.*;
-import java.com.company.homeTasks.hw2.Sortings.*;
+import com.company.homeTasks.hw2.Sortings.*;
 
 import java.util.Arrays;
 
-/*
-1. Нужно написать реализацию 5 сортировок на выбор.
- И каждую из выбраных сортировок испытать на массиве размером 1_000_000 так подсчитать время выполнения.
-Hint:
-Можно заглянуть сюда https://habr.com/ru/post/204600/
-Обратите внимание на  System.arraycopy(......), class Arrays.
- */
 public class SortingsApp {
 
     public static final int N = 100;
